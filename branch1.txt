@@ -4,4 +4,5 @@ Changes are made in Master Branch.
 
 Change is made in Branch1.
 
-Merge Conflict will occure.
+Merge Conflict will definitely occure.
+
